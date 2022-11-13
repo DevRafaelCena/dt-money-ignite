@@ -17,3 +17,4 @@ Projeto para controle financeiro pessoal. Desenvolvimento durante a trilha ignit
 - Zod = https://zod.dev/
 - hookform/resolvers = https://www.npmjs.com/package/@hookform/resolvers
 - eslint = https://eslint.org/ (npm i eslint @rocketseat/eslint-config -D)
+- use-context-selector = https://www.npmjs.com/package/use-context-selector
