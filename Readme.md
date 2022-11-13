@@ -16,3 +16,4 @@ Projeto para controle financeiro pessoal. Desenvolvimento durante a trilha ignit
 - Heact hook form = https://react-hook-form.com/
 - Zod = https://zod.dev/
 - hookform/resolvers = https://www.npmjs.com/package/@hookform/resolvers
+- eslint = https://eslint.org/ (npm i eslint @rocketseat/eslint-config -D)
