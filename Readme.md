@@ -13,3 +13,6 @@ Projeto para controle financeiro pessoal. Desenvolvimento durante a trilha ignit
 - styled-components = https://styled-components.com/
 - vite = https://vitejs.dev/
 - json server = https://github.com/typicode/json-server
+- Heact hook form = https://react-hook-form.com/
+- Zod = https://zod.dev/
+- hookform/resolvers = https://www.npmjs.com/package/@hookform/resolvers
